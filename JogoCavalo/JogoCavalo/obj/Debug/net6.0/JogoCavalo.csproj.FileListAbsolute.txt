@@ -1,0 +1,15 @@
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\bin\Debug\net6.0\JogoCavalo.exe
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\bin\Debug\net6.0\JogoCavalo.deps.json
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\bin\Debug\net6.0\JogoCavalo.runtimeconfig.json
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\bin\Debug\net6.0\JogoCavalo.dll
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\bin\Debug\net6.0\JogoCavalo.pdb
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.csproj.AssemblyReference.cache
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.AssemblyInfoInputs.cache
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.AssemblyInfo.cs
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.csproj.CoreCompileInputs.cache
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.dll
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\refint\JogoCavalo.dll
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.pdb
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\JogoCavalo.genruntimeconfig.cache
+C:\Users\lgfreitas\Downloads\backup\projetinhos\JogoCavalo\JogoCavalo\obj\Debug\net6.0\ref\JogoCavalo.dll
